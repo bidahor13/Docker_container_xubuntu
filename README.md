@@ -2,4 +2,4 @@
 Python App
 
 
-Moby dock app written in pythn and running on a Docker container.
+Moby dock app written in python and running on a Docker container.
